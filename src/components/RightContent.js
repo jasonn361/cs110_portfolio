@@ -14,7 +14,6 @@ function RightContent() {
       <Skills />
       <Experience />
       <Projects />
-      <Extracurriculars />
     </div>
   );
 }
